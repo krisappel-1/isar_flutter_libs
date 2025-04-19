@@ -26,10 +26,11 @@ android {
         namespace 'dev.isar.isar_flutter_libs'
     }
     
-    compileSdkVersion 30
+    compileSdkVersion 35
 
     defaultConfig {
-        minSdkVersion 16
+        minSdkVersion 24
+        targetSdkVersion 35
     }
 }
 
